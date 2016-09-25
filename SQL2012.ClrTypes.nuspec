@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>SQL2012.ClrTypes</id>
-    <version>2011.110.3000.00</version>
+    <id>sql2012.clrtypes</id>
+    <version>2011.110.3000.1</version>
     <title>Microsoft SQL Server 2012 System CLR Types</title>
     <authors>Microsoft</authors>
     <owners>Taliesin Sisson</owners>
