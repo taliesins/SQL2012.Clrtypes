@@ -16,4 +16,7 @@
     <releaseNotes />
     <tags>SQL SQL2012 .NET CLR</tags>
   </metadata>
+  <files>
+    <file src="**" exclude=".git**\*;**\*.nupkg;**\*.nuspec;" />
+  </files>
 </package>
