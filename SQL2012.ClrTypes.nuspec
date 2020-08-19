@@ -2,15 +2,15 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>sql2012.clrtypes</id>
-    <version>2011.110.3000.1</version>
+    <version>9911.0.5058.0</version>
     <title>Microsoft SQL Server 2012 System CLR Types</title>
     <authors>Microsoft</authors>
     <owners>Taliesin Sisson</owners>
-    <projectUrl>http://www.microsoft.com/en-us/download/details.aspx?id=35580</projectUrl>
+    <projectUrl>http://www.microsoft.com/en-us/download/details.aspx?id=43339</projectUrl>
     <iconUrl>https://github.com/taliesins/SQL2012.ClrTypes/raw/master/SQL2012.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>The SQL Server System CLR Types package contains the components implementing the new geometry, geography, and hierarchyid types in SQL Server 2012. This component can be installed separately from the server to allow client applications to use these types outside of the server.</description>
-    <summary>Microsoft SQL Server 2012 Feature Pack SP 1
+    <summary>Microsoft SQL Server 2012 Feature Pack SP 2
 
       The SQL Server System CLR Types package contains the components implementing the new geometry, geography, and hierarchyid types in SQL Server 2012. This component can be installed separately from the server to allow client applications to use these types outside of the server.</summary>
     <releaseNotes />
