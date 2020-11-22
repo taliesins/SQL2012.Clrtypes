@@ -2,12 +2,14 @@ $params = @{
   packageName = 'sql2012.clrtypes';
   installerType = 'msi';
   silentArgs = '/quiet';
-  url = 'http://download.microsoft.com/download/3/A/6/3A632674-A016-4E31-A675-94BE390EA739/ENU/x64/SQLSysClrTypes.msi';
-  checksum='17FBF1C8F2533CE69F7D39EBE3E7123D7732E3AC94E83D77E1DA1974645E0DEA';
+  url = 'https://download.microsoft.com/download/F/3/C/F3C64941-22A0-47E9-BC9B-1A19B4CA3E88/ENU/x64/SQLSysClrTypes.msi';
+  checksum='F586F7E04803FE3FC197823608401297690FA21F8E09CF9D5A14459E10759608';
   checksumType='Sha256';
-  url64 = 'http://download.microsoft.com/download/3/A/6/3A632674-A016-4E31-A675-94BE390EA739/ENU/x86/SQLSysClrTypes.msi';
-  checksum64 = '01A6BD6AC7226E158776CFBD8C0BC8785FE0CD7F72EC862A5961A2A6BBA958E3';
+  url64 = 'https://download.microsoft.com/download/F/3/C/F3C64941-22A0-47E9-BC9B-1A19B4CA3E88/ENU/x86/SQLSysClrTypes.msi';
+  checksum64 = 'E52EE0E5F788F4381AD59FAA9EF9D2FA0DEC6831A94624B90933A0475F074C6D';
   checksumType64 = 'Sha256';
   validExitCodes = @(0,3010)
 }
 Install-ChocolateyPackage @params
+
+
